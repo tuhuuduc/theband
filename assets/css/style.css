@@ -196,6 +196,7 @@ html {
 	left: 50%;
 	transform: translateX(-50%);
 	text-align: center;
+	text-shadow: 0 0 50px black;
 }
 
 #slider .text-heading {
