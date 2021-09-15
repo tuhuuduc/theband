@@ -435,6 +435,15 @@ html {
 	width: 30px;
 }
 
+.contact-info a {
+	color: blue;
+	opacity: 0.6;
+}
+
+.contact-info a:hover {
+	opacity: 0.8;
+}
+
 .contact-form {
 	font-size: 15px;
 }
